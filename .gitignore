@@ -1,0 +1,6 @@
+#ignore env
+venv/
+.env
+# Ignore Python bytecode files
+*.pyc
+*.pyo
